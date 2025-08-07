@@ -1,0 +1,120 @@
+# name, affinity offset, type/group
+bear,16,1
+beef,17,1
+canine,18,1
+cat,19,1
+dragon,20,1
+fowl,21,1
+game,22,1
+horse,23,1
+human,24,1
+humanoid,25,1
+insect,26,1
+lamb,27,1
+pork,28,1
+seafood,29,1
+snake,30,1
+tough,31,1
+green apple,18,9
+barley,23,12
+wheat,25,12
+rye,23,12
+oat,25,12
+corn,44,2
+pumpkin,45,2
+potato,47,2
+cheese,84,7
+goat cheese,85,7
+feta cheese,86,7
+buffalo cheese,87,7
+honey,89,0
+hazelnuts,8,6
+green mushroom,120,11
+black mushroom,121,11
+brown mushroom,122,11
+yellow mushroom,123,11
+blue mushroom,124,11
+red mushroom,125,11
+salt,99,0
+lovage,89,3
+sage,90,3
+onion,91,2
+garlic,92,2
+oregano,93,3
+parsley,94,3
+basil,95,3
+thyme,96,3
+belladonna,97,3
+strawberries,98,10
+rosemary,99,3
+blueberry,100,10
+nettles,101,3
+sassafras,102,3
+lingonberry,103,10
+cherries,7,9
+lemon,8,9
+blue grapes,9,9
+olives,10,9
+green grapes,12,9
+maple sap,18,0
+nothing,,0
+egg,68,0
+rice,68,2
+walnut,16,6
+chestnut,17,6
+mint,38,3
+fennel,39,0
+carrot,41,2
+cabbage,42,2
+tomato,43,2
+lettuce,45,2
+pea pod,46,2
+sugar,47,0
+cumin,48,4
+ginger,49,4
+nutmeg,50,4
+paprika,51,4
+turmeric,52,4
+pea,58,2
+fennel seed,59,4
+cocoa bean,63,0
+pinenut,92,6
+raspberries,104,10
+pineapple,5,9
+cucumber,17,2
+orange,53,9
+smallmouth bass,12,5
+carp,18,5
+catfish,14,5
+snook,15,5
+herring,13,5
+pike,11,5
+roach,16,5
+brook trout,19,5
+perch,17,5
+marlin,9,5
+white shark,11,5
+octopus,12,5
+sailfish,13,5
+dorado,14,5
+tuna,15,5
+camellia,20,0
+oleander,21,0
+croutons,126,0
+gravy,106,0
+bacon,79,0
+butter,100,0
+crisps,133,0
+toast,136,0
+passata,114,0
+pesto,117,0
+pesta,115,0
+stock,118,0
+white sauce,120,0
+bread,127,8
+sliced bread,128,8
+haggis,127,0
+fried sliced bread,79,0
+kielbasa,130,0
+fries,111,0
+maple syrup,17,0
